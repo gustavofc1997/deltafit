@@ -10,40 +10,31 @@ import ArrowNext from "../public/assets/Icon/eva_arrow-next-fill.svg";
 const Testimoni = ({
   listTestimoni = [
     {
-      name: "iezh Robert",
+      name: "Gustavo Forero",
       image: "/assets/people-3.png",
-      city: "Warsaw",
-      country: "Poland",
+      city: "La Dorada",
+      country: "Caldas",
       rating: "4.5",
       testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
+        "Me encanta DeltaFit. Los entrenadores son geniales y las clases son muy desafiantes. He mejorado mi condición física mucho desde que empecé a entrenar aquí",
     },
     {
-      name: "iezh Robert",
+      name: "Jhon Perez",
       image: "/assets/people-3.png",
-      city: "Warsaw",
-      country: "Poland",
+      city: "Salgar",
+      country: "Cundinamarca",
       rating: "4.5",
       testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
+        "He probado muchos gimnasios de Crossfit, pero DeltaFit es el único que me ha hecho sentir realmente cómodo. Los entrenadores son muy comprensivos y me ayudan a superar mis límites.",
     },
     {
-      name: "iezh Robert",
+      name: "Sara Carvajal",
       image: "/assets/people-3.png",
-      city: "Warsaw",
-      country: "Poland",
-      rating: "4.5",
+      city: "La Dorada",
+      country: "Caldas",
+      rating: "5",
       testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
-    },
-    {
-      name: "iezh Robert",
-      image: "/assets/people-3.png",
-      city: "Warsaw",
-      country: "Poland",
-      rating: "4.5",
-      testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
+        "DeltaFit en La Dorada es el mejor gimnasio de la ciudad. El ambiente es genial y me siento parte de una comunidad. He hecho muchos amigos aquí.",
     },
   ],
 }) => {

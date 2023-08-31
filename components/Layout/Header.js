@@ -42,7 +42,7 @@ const Header = () => {
                   : " text-black-500 hover:text-orange-500 a")
               }
             >
-              About
+              Acerca 
             </LinkScroll>
             <LinkScroll
               activeClass="active"
@@ -60,7 +60,7 @@ const Header = () => {
                   : " text-black-500 hover:text-orange-500 ")
               }
             >
-              Feature
+              Servicios
             </LinkScroll>
             <LinkScroll
               activeClass="active"
@@ -78,7 +78,7 @@ const Header = () => {
                   : " text-black-500 hover:text-orange-500 ")
               }
             >
-              Pricing
+              Precios
             </LinkScroll>
             <LinkScroll
               activeClass="active"
@@ -96,16 +96,11 @@ const Header = () => {
                   : " text-black-500 hover:text-orange-500 ")
               }
             >
-              Testimonial
+              Testimonios
             </LinkScroll>
           </ul>
           <div className="col-start-10 col-end-12 font-medium flex justify-end items-center">
-            <Link href="/">
-              <a className="text-black-600 mx-2 sm:mx-4 capitalize tracking-wide hover:text-orange-500 transition-all">
-                  Sign In
-              </a>
-            </Link>
-            <ButtonOutline>Sign Up</ButtonOutline>
+            <ButtonOutline>Whatsapp</ButtonOutline>
           </div>
         </nav>
       </header>
