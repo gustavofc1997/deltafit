@@ -11,7 +11,7 @@ const Testimoni = ({
   listTestimoni = [
     {
       name: "Gustavo Forero",
-      image: "/assets/people-3.png",
+      image: "/assets/gus.jpg",
       city: "La Dorada",
       country: "Caldas",
       rating: "4.5",
@@ -20,7 +20,7 @@ const Testimoni = ({
     },
     {
       name: "Jhon Perez",
-      image: "/assets/people-3.png",
+      image: "/assets/jhon.jpg",
       city: "Salgar",
       country: "Cundinamarca",
       rating: "4.5",
